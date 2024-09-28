@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 
-st.title("🥗 Nutrition & Fitness Bot🏋️ ")
+st.title("🥗 Nutrition & Fitness Bot ")
 st.subheader("Your personalized meal plan and fitness assistant")
 
 # Capture Gemini API Key

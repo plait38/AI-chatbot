@@ -118,3 +118,5 @@ if st.session_state.plan_generated:
                 st.chat_message("assistant").markdown(bot_response)
             except Exception as e:
                 st.error(f"An error occurred while generating the response: {e}")
+
+        #test
